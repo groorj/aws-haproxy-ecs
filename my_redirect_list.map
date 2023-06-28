@@ -1,0 +1,4 @@
+^/TEST$ http://test.com
+^/TEST/ http://test.com
+^/GOOGLE$ https://www.google.com
+^/GOOGLE/ https://www.google.com
