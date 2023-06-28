@@ -1,4 +1,4 @@
-^/TEST$ http://test.com
-^/TEST/ http://test.com
-^/GOOGLE$ https://www.google.com
-^/GOOGLE/ https://www.google.com
+/my-old-path /my-new-path
+/test http://test.com
+/google https://www.google.com
+/hahaha /hehehe
