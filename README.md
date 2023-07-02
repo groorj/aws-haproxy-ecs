@@ -98,10 +98,6 @@ Create a new cluster or choose an existing one to host your containers.
 
 Follow the instructions provided by ECS to create a cluster.
 
---> image to cluster creation
-
---> image to cluster created
-
 2. Create an ECS task definition:
 
 In the ECS service console, navigate to "Task Definitions" and click "Create new Task Definition."
